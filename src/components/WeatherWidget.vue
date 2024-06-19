@@ -55,7 +55,7 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url("public/1.jpeg") center/cover no-repeat;
+    background: url("public/images/1.jpeg") center/cover no-repeat;
   }
   
   .weather-box {
