@@ -55,8 +55,10 @@ export default {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: url("public/images/img1.jpg") center/cover no-repeat;
-  width: 100vw;
+  width: 90vw;
+  background: url("https://img.freepik.com/free-photo/closeup-shot-thermometer-beach-sand_181624-12367.jpg?w=1480") center/cover no-repeat;
+  min-height: 100vh;
+  min-width: 90vw;
 }
 
 .weather-box {
