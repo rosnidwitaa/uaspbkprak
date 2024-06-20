@@ -21,6 +21,7 @@
   <script>
   import { ref } from 'vue';
   import axios from 'axios';
+  import backgroundImage from 'public/images/1.jpeg';
   
   export default {
     name: 'WeatherWidget',
@@ -55,7 +56,7 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url("public/images/1.jpeg") center/cover no-repeat;
+    background: url("./images/1.jpeg") center/cover no-repeat;
   }
   
   .weather-box {
