@@ -1,0 +1,8 @@
+.weather-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url("/images/1.jpeg") center/cover no-repeat;
+  }
+  
