@@ -55,7 +55,7 @@ export default {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: url("public/images/img1.jpeg") center/cover no-repeat;
+  background: url("public/images/img1.jpg") center/cover no-repeat;
   width: 100vw;
 }
 
